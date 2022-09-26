@@ -1,0 +1,14 @@
+Hola Martin! Cómo estás? Espero que muy bien. 
+
+En cuanto a el ejercicio 2, no pude terminarlo porque no entendi bien la consigna y también no tenia bien en claro como hacerlo. Pero paso a explicarte un poco desde la logica que entendi, espero no estar equivocado pero tampoco quiero quedarme con las manos vacias del 2do ejercicio. 
+
+Lo que pensé es que con cada JSON hacer un fetch para mostrarlo con un console.log para corroborar. Bueno de ahi no sabia bien como unirlos porque nunca junte 2 JSON (o eso es lo que entendi con la consigna). Googleando pensé en que se podia usar el JSON.stringify() que lo convierte en cadena y juntarlos, para despues con el JSON.parse() para volverlo un objeto, pero además se sumaba la condición de eliminar los repetidos, que eso podia justamente filtrarlo con un if que me traiga los que no se repitan el idPaciente con el json2, tomando de base el 1. Después mostrar el json con un getElementById a un p con la id="contenidojson" y hacer un innerHTML. 
+
+Si trabaje con apis y json, pero nunca uni 2 json para despues filtrar los resultados de esos 2 en uno, o eso es lo que entendi. Trate de explicar lo que haria logicamente y estudie durante la semana para entenderlo. 
+
+En cuanto al ejercicio 1, me diverti bastante haciendolo y me gusto mucho hacer la prueba, no me costo mucho porque ya trabaje con apis anteriormente. Te deje cada parte comentada para que sea mejor leerlo :).
+
+Muchas gracias por la oportunidad y espero que podamos trabajar juntos! 
+Saludos. 
+
+Mariano Benitez.  
